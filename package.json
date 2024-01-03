@@ -5,8 +5,6 @@
   "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "prettier:check": "npx prettier --check",
-    "prettier:format": "npx prettier --write",
     "lint": "gts lint",
     "clean": "gts clean",
     "compile": "tsc",
@@ -31,12 +29,8 @@
   },
   "homepage": "https://github.com/dmalenik/trip-to-montenegro#readme",
   "devDependencies": {
-    "@typescript-eslint/eslint-plugin": "^6.17.0",
-    "@typescript-eslint/parser": "^6.17.0",
-    "eslint": "^8.56.0",
-    "prettier": "3.1.1",
-    "typescript": "^5.3.3",
+    "@types/node": "20.8.2",
     "gts": "^5.2.0",
-    "@types/node": "20.8.2"
+    "typescript": "^5.3.3"
   }
 }
