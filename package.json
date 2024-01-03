@@ -1,0 +1,24 @@
+{
+  "name": "trip-to-montenegro",
+  "version": "1.0.0",
+  "description": "website with photos from my trip to montenegro",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmalenik/trip-to-montenegro.git"
+  },
+  "keywords": [
+    "website",
+    "trip",
+    "photos"
+  ],
+  "author": "Dmytro Malienik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmalenik/trip-to-montenegro/issues"
+  },
+  "homepage": "https://github.com/dmalenik/trip-to-montenegro#readme"
+}
