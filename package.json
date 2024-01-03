@@ -4,7 +4,9 @@
   "description": "website with photos from my trip to montenegro",
   "main": "index.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prettier:check": "npx prettier --check",
+    "prettier:format": "npx prettier --write"
   },
   "repository": {
     "type": "git",
