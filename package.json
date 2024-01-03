@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/dmalenik/trip-to-montenegro/issues"
   },
-  "homepage": "https://github.com/dmalenik/trip-to-montenegro#readme"
+  "homepage": "https://github.com/dmalenik/trip-to-montenegro#readme",
+  "devDependencies": {
+    "prettier": "3.1.1"
+  }
 }
