@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "prettier:check": "npx prettier --check",
-    "prettier:format": "npx prettier --write"
+    "prettier:format": "npx prettier --write",
+    "eslint:run": "npx eslint ."
   },
   "repository": {
     "type": "git",
